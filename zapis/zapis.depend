@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1735808539 source:c:\users\uczeñ\desktop\zapis\main.cpp
+	<iostream>
+	<fstream>
+
